@@ -1,0 +1,5 @@
+streamlit
+numpy
+catboost
+scikit-learn
+sklearn
